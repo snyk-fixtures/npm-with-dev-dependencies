@@ -1,0 +1,23 @@
+{
+  "name": "npm-with-dev-dependencies",
+  "version": "1.0.0",
+  "description": "A test fixture project with two dev dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyk-fixtures/npm-with-dev-dependencies.git"
+  },
+  "author": "Dar Malovani",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.17.1",
+    "twilio": "^2.11.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "ms": "^0.7.1"
+  }
+}
