@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "sharp": "^0.17.1",
-    "twilio": "^2.11.1"
+    "twilio": "^3.41.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
