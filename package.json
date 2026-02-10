@@ -13,8 +13,8 @@
   "author": "Dar Malovani",
   "license": "ISC",
   "dependencies": {
-    "sharp": "^0.17.1",
-    "twilio": "^2.11.1"
+    "sharp": "^0.34.4",
+    "twilio": "^3.17.1"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
